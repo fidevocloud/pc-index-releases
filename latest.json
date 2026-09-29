@@ -1,0 +1,7 @@
+{
+  "version": "0.1.25",
+  "url": "https://raw.githubusercontent.com/fidevocloud/pc-index-releases/main/PCIndex-0.1.25-win-x64.zip",
+  "sha256": "707ba4eb63f57543911860f2b2adeab93cfdcac5381033fc835186868fd2f784",
+  "notes": "build(installer): English setup UI (Romanian.isl is not shipped with Inno Setup 6)",
+  "published": "2026-09-29T07:12:00Z"
+}
